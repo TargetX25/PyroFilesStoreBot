@@ -29,16 +29,16 @@ This Bot only works for @Moviestrix so don't try to use for yourself else You ge
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @TargetX25
 
 👥 **Support Group:** [Moviestrix Discussion](https://t.me/gotMovieslink)
 
-📢 **Channel:** [Discovery Projects](https://t.me/Moviestrix)
+📢 **Channel:** [Moviestrix](https://t.me/Moviestrix)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @TargetX25
 
-Developer is Super Noob. Also This Bot only works for @Moviestrix
+This Bot only works for @Moviestrix
 So don't Try to Store your files here.Else You Get a nice ban🙃
 """
 	HOME_TEXT = """
